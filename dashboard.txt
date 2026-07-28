@@ -1,1 +1,2 @@
 main dashboard v1
+main dashboard v2
