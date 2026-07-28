@@ -1,1 +1,5 @@
-public class Employee {}
+public class Employee {
+    public String identity() {
+        return "Employee updated";
+    }
+}
